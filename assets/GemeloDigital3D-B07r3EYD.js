@@ -1,4 +1,4 @@
-import{j as xi}from"./index-BrGlFKWr.js";import{r as Gn}from"./react-B6PcYLB7.js";import"./graficas-DFNGgFq7.js";/**
+import{j as xi}from"./index-C8uh3FGR.js";import{r as Gn}from"./react-B6PcYLB7.js";import"./graficas-DFNGgFq7.js";/**
  * @license
  * Copyright 2010-2025 Three.js Authors
  * SPDX-License-Identifier: MIT
